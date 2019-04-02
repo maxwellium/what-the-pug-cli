@@ -9,6 +9,7 @@
   ],
   "license": "MIT",
   "author": "maxwellium",
+  "repository": "github:maxwellium/what-the-pug-cli",
   "bin": {
     "what-the-pug": "./bin/what-the-pug"
   },
